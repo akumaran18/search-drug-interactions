@@ -1,4 +1,4 @@
-# Drug interaction search feature
+# Drug Interaction Search Feature
 
 ## Overview
 
