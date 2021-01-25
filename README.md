@@ -1,4 +1,4 @@
-# Drug Interaction Search Feature with the NIH RxNorm Dataset
+# NIH RxNorm Dataset Drug Interaction Search Feature
 
 ## Overview
 
