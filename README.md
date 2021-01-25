@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img align="right" src="">
+<img align="right" src="https://media.giphy.com/media/fiZf1kMUFPDOMuS5O9/giphy.gif">
 
 This is an in-progress AndroidStudio project for a drug interaction app. The app posesses a search feature that uses two API calls to the [National Institute of Health RxNorm dataset](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) to retrieve and describe known interactions and their severity.
 
